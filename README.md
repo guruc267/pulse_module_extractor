@@ -4,7 +4,9 @@ This system structured, human-readable JSON output to comprehend product capabil
 Without the need for manual labelling or hardcoded rules, this approach is designed to function across various external documentation sources (B2B and consumer items).
 ## Streamlit app Link : https://pulsemoduleextractorgurucharan.streamlit.app/
 
-## K Guru Charan RA2211026010141
+## 👤 Author
+K Guru Charan 
+RA2211026010141
 
 # Architecture and Agentic Design
 
