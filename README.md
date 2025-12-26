@@ -6,8 +6,36 @@ Without the need for manual labelling or hardcoded rules, this approach is desig
 
 ## K Guru Charan RA2211026010141
 
+# Architecture and Agentic Design
 
+The system is designed as a multi-agent pipeline:
 
+## Crawler Agent
+- Recursively traverses URLs for documentation
+- Manages redirects, broken links, and domain scoping
+
+- It extracts raw textual content from HTML pages.
+
+## Content Cleaner Agent
+- Removes navigation, boilerplate, and other repeated text in a user interface.
+
+- Normalizes whitespace and formatting
+
+Clean text output suitable for further semantic processing
+## Hierarchy Builder Agent
+
+- Document structure preserved
+- Infers hierarchical, parent–child relationships among topics
+Generates hierarchical representations intended to support extraction processes
+
+## LLM Extraction Agent
+Identifies candidate modules and submodules
+- Produces concise, documentation-based descriptions Hallucination is mitigated, as outputs are restricted to contents derived from extraction. 
+
+## Refinement Agent 
+- Deduplicates overlapping or noisy module names Excludes headings that are marketing
+- or navigation-specific
+- Groups semantically similar modules together
 
 
 # OUTPUT IMAGES
