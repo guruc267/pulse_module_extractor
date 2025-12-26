@@ -4,32 +4,35 @@ import os
 import json
 import streamlit as st
 
-# ✅ Ensure project root is in Python path
+# Ensure project root is in path
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
 from agents.module_extractor import run_extraction
 
-# -------------------------------
-# Streamlit Page Config
-# -------------------------------
+# -----------------------------
+# Page Configuration
+# -----------------------------
 st.set_page_config(
     page_title="Pulse – Module Extraction AI Agent",
     layout="wide"
 )
 
 st.title("📦 Pulse – Module Extraction AI Agent")
-st.write(
-    "Extract structured **product modules and submodules** from "
+st.caption(
+    "AI-powered extraction of product modules and submodules from "
     "documentation-based help websites."
 )
 
-# -------------------------------
-# URL Input
-# -------------------------------
-st.subheader("🔗 Documentation URLs")
+st.divider()
+
+# -----------------------------
+# Input Section
+# -----------------------------
+st.subheader("🔗 Input Documentation URLs")
 
 urls_input = st.text_area(
-    "Enter one or more documentation URLs (one per line)",
+    label="Enter one or more documentation URLs (one per line)",
+    height=120,
     placeholder=(
         "https://help.zluri.com/\n"
         "https://wordpress.org/documentation/\n"
@@ -39,10 +42,12 @@ urls_input = st.text_area(
 
 urls = [u.strip() for u in urls_input.splitlines() if u.strip()]
 
-# -------------------------------
-# Run Extraction
-# -------------------------------
-if st.button("🚀 Extract Modules"):
+run = st.button("🚀 Run Module Extraction")
+
+# -----------------------------
+# Execution
+# -----------------------------
+if run:
     if not urls:
         st.error("Please enter at least one valid documentation URL.")
     else:
@@ -53,35 +58,65 @@ if st.button("🚀 Extract Modules"):
                 st.error(f"Extraction failed: {e}")
                 result = []
 
+        st.divider()
+
+        # -----------------------------
+        # Result Handling
+        # -----------------------------
         if not result:
             st.warning(
-                "No modules were extracted. "
-                "The documentation may be dynamic or sparsely structured."
+                "No modules were extracted.\n\n"
+                "This may happen for documentation sites that rely heavily "
+                "on dynamic rendering or sparse HTML structure."
             )
         else:
+            # Summary
             st.success("Extraction completed successfully!")
 
-            # -------------------------------
-            # Display Results
-            # -------------------------------
+            col1, col2 = st.columns(2)
+            col1.metric("Total Modules Extracted", len(result))
+            col2.metric(
+                "Modules With Submodules",
+                sum(1 for m in result if m.get("Submodules"))
+            )
+
+            st.divider()
+
+            # -----------------------------
+            # Module Display
+            # -----------------------------
             st.subheader("📊 Extracted Modules")
 
             for module in result:
-                with st.expander(f"📁 {module['module']}"):
-                    st.write(f"**Description:** {module['Description']}")
+                module_name = module.get("module", "Unnamed Module")
+                description = module.get("Description", "")
+                submodules = module.get("Submodules", {})
 
-                    if module.get("Submodules"):
-                        st.write("**Submodules:**")
-                        for sub, desc in module["Submodules"].items():
-                            st.markdown(f"- **{sub}**: {desc}")
+                with st.expander(f"📁 {module_name}", expanded=False):
+                    st.markdown(f"**Description**  \n{description}")
+
+                    if submodules:
+                        st.markdown("**Submodules**")
+                        for sub, desc in submodules.items():
+                            st.markdown(f"- **{sub}** — {desc}")
                     else:
-                        st.write("_No submodules detected._")
+                        st.caption("No submodules detected for this module.")
 
-            st.subheader("⬇️ Download Output")
+            st.divider()
+
+            # -----------------------------
+            # Download Section
+            # -----------------------------
+            st.subheader("⬇️ Export Results")
 
             st.download_button(
                 label="Download JSON Output",
                 data=json.dumps(result, indent=2),
                 file_name="module_extraction_output.json",
                 mime="application/json"
+            )
+
+            st.caption(
+                "Tip: This output can be further refined or consumed by "
+                "product analytics and documentation teams."
             )
