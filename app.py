@@ -9,9 +9,7 @@ sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
 from agents.module_extractor import run_extraction
 
-# -----------------------------
-# Page Configuration
-# -----------------------------
+
 st.set_page_config(
     page_title="Pulse – Module Extraction AI Agent",
     layout="wide"
@@ -25,9 +23,7 @@ st.caption(
 st.caption("— BY K Guru Charan")
 st.divider()
 
-# -----------------------------
-# Input Section
-# -----------------------------
+
 st.subheader("🔗 Input Documentation URLs")
 
 urls_input = st.text_area(
@@ -44,9 +40,8 @@ urls = [u.strip() for u in urls_input.splitlines() if u.strip()]
 
 run = st.button("🚀 Run Module Extraction")
 
-# -----------------------------
 # Execution
-# -----------------------------
+
 if run:
     if not urls:
         st.error("Please enter at least one valid documentation URL.")
@@ -60,9 +55,9 @@ if run:
 
         st.divider()
 
-        # -----------------------------
+        
         # Result Handling
-        # -----------------------------
+        
         if not result:
             st.warning(
                 "No modules were extracted.\n\n"
@@ -82,9 +77,9 @@ if run:
 
             st.divider()
 
-            # -----------------------------
+            
             # Module Display
-            # -----------------------------
+            
             st.subheader("📊 Extracted Modules")
 
             for module in result:
@@ -104,9 +99,9 @@ if run:
 
             st.divider()
 
-            # -----------------------------
+            
             # Download Section
-            # -----------------------------
+            
             st.subheader("⬇️ Export Results")
 
             st.download_button(
