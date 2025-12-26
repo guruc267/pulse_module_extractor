@@ -3,6 +3,7 @@ This project implements an AI-powered Module Extraction Agent designed to automa
 This system structured, human-readable JSON output to comprehend product capabilities at scale. It also crawls help manuals, processes and cleans content, and infers hierarchical structure.
 Without the need for manual labelling or hardcoded rules, this approach is designed to function across various external documentation sources (B2B and consumer items).
 ## Streamlit app Link : https://pulsemoduleextractorgurucharan.streamlit.app/
+## Video Demo Link : https://drive.google.com/file/d/1kioCJX12lxKZHpt9OhHNpt0MfFioDTNR/view?usp=drive_link
 
 ## 👤 Author
 K Guru Charan 
@@ -38,6 +39,14 @@ Identifies candidate modules and submodules
 - Deduplicates overlapping or noisy module names Excludes headings that are marketing
 - or navigation-specific
 - Groups semantically similar modules together
+
+## Limitations 
+
+For large enterprise documentation sites, some navigation-heavy headings may still appear, but the system prioritizes high recall, as required by the assignment.
+
+This tradeoff ensures important product capabilities are not missed.
+
+
   
 # OUTPUT IMAGES
 <img width="1200" height="650" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/5bf85f7d-a2e6-426a-826b-3f1da8855db9" />
