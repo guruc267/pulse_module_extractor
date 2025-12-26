@@ -21,6 +21,7 @@ st.title("📦 Pulse – Module Extraction AI Agent")
 st.caption(
     "AI-powered extraction of product modules and submodules from "
     "documentation-based help websites."
+    "BY K Guru Charan.."
 )
 
 st.divider()
