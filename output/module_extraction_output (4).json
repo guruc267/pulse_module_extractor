@@ -1,0 +1,1113 @@
+[
+  {
+    "module": "Data Center",
+    "Description": "This module represents functionality related to data center, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Marketplace Appsfind Features To Customize Your Apps.View Marketplace",
+    "Description": "This module represents functionality related to marketplace appsfind features to customize your apps.view marketplace, derived from the product help documentation.",
+    "Submodules": {
+      "Marketplace Appsfind Features To Customize Your Appsview Marketplace": "Functionality related to marketplace appsfind features to customize your appsview marketplace, as described in the documentation.",
+      "Find Features To Customize Your Apps": "Functionality related to find features to customize your apps, as described in the documentation.",
+      "Find Features To Customize Your Apps.": "Functionality related to find features to customize your apps., as described in the documentation.",
+      "Marketplace Apps": "Functionality related to marketplace apps, as described in the documentation."
+    }
+  },
+  {
+    "module": "What'S New",
+    "Description": "This module represents functionality related to what's new, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate Jira Cloud And Slack",
+    "Description": "This module represents functionality related to integrate jira cloud and slack, derived from the product help documentation.",
+    "Submodules": {
+      "Get Started With Jira Cloud": "Functionality related to get started with jira cloud, as described in the documentation.",
+      "Jira Service Management Cloud Support": "Functionality related to jira service management cloud support, as described in the documentation.",
+      "Connect Github Cloud To Jira": "Functionality related to connect github cloud to jira, as described in the documentation.",
+      "Use Jira Cloud With Bitbucket": "Functionality related to use jira cloud with bitbucket, as described in the documentation.",
+      "Administer Jira Cloud": "Functionality related to administer jira cloud, as described in the documentation."
+    }
+  },
+  {
+    "module": "Give Users Admin Permissions",
+    "Description": "This module represents functionality related to give users admin permissions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Customer Provisioning With An Identity Provider",
+    "Description": "This module represents functionality related to configure customer provisioning with an identity provider, derived from the product help documentation.",
+    "Submodules": {
+      "Supported Identity Providers": "Functionality related to supported identity providers, as described in the documentation.",
+      "Choose Your Identity Provider": "Functionality related to choose your identity provider, as described in the documentation.",
+      "Configure User Provisioning With An Identity Provider": "Functionality related to configure user provisioning with an identity provider, as described in the documentation.",
+      "Connect An Identity Provider": "Functionality related to connect an identity provider, as described in the documentation."
+    }
+  },
+  {
+    "module": "Transfer All Apps To Another Organization",
+    "Description": "This module represents functionality related to transfer all apps to another organization, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Remove Admin Role From A User",
+    "Description": "This module represents functionality related to remove admin role from a user, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Import Data Directly From Monday Into Jira",
+    "Description": "This module represents functionality related to import data directly from monday into jira, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Atlassian Guard App And Plan Availability",
+    "Description": "This module represents functionality related to atlassian guard app and plan availability, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View System Status",
+    "Description": "This module represents functionality related to view system status, derived from the product help documentation.",
+    "Submodules": {
+      "System Status": "Functionality related to system status, as described in the documentation."
+    }
+  },
+  {
+    "module": "Prepare A Csv File For Import",
+    "Description": "This module represents functionality related to prepare a csv file for import, derived from the product help documentation.",
+    "Submodules": {
+      "Import Data From A Csv File": "Functionality related to import data from a csv file, as described in the documentation."
+    }
+  },
+  {
+    "module": "Manage Api Key Expiration For Scim",
+    "Description": "This module represents functionality related to manage api key expiration for scim, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Why Connect Identity Providers?",
+    "Description": "This module represents functionality related to why connect identity providers?, derived from the product help documentation.",
+    "Submodules": {
+      "What Are The Steps To Connect An Identity Provider?": "Functionality related to what are the steps to connect an identity provider?, as described in the documentation."
+    }
+  },
+  {
+    "module": "What Is A Non-Billable Policy?",
+    "Description": "This module represents functionality related to what is a non-billable policy?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "We\u2019Ll Note These Changes In The Support Documentation Below.",
+    "Description": "This module represents functionality related to we\u2019ll note these changes in the support documentation below., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Set Up Jira Apps",
+    "Description": "This module represents functionality related to set up jira apps, derived from the product help documentation.",
+    "Submodules": {
+      "Jira Software Support": "Functionality related to jira software support, as described in the documentation.",
+      "Jira Software": "Functionality related to jira software, as described in the documentation.",
+      "How To Add New Atlassian Apps From Jira": "Functionality related to how to add new atlassian apps from jira, as described in the documentation.",
+      "What Is The Jira Family Of Apps?": "Functionality related to what is the jira family of apps?, as described in the documentation.",
+      "Jira Software Data Center Support": "Functionality related to jira software data center support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Create An Atlassian Organization",
+    "Description": "This module represents functionality related to create an atlassian organization, derived from the product help documentation.",
+    "Submodules": {
+      "Navigate Atlassian Administration": "Functionality related to navigate atlassian administration, as described in the documentation.",
+      "Manage Your Organization\u2019S Atlassian Accounts": "Functionality related to manage your organization\u2019s atlassian accounts, as described in the documentation.",
+      "Add A New Atlassian App Or Collection To Your Organization": "Functionality related to add a new atlassian app or collection to your organization, as described in the documentation.",
+      "Can I Merge My Atlassian Organizations?": "Functionality related to can i merge my atlassian organizations?, as described in the documentation.",
+      "What Is An Atlassian Organization?": "Functionality related to what is an atlassian organization?, as described in the documentation."
+    }
+  },
+  {
+    "module": "Update An App Url Subdomain",
+    "Description": "This module represents functionality related to update an app url subdomain, derived from the product help documentation.",
+    "Submodules": {
+      "Can I Update The Url Used To Access An App?": "Functionality related to can i update the url used to access an app?, as described in the documentation."
+    }
+  },
+  {
+    "module": "Import Data From A Business Space To A Software Space",
+    "Description": "This module represents functionality related to import data from a business space to a software space, derived from the product help documentation.",
+    "Submodules": {
+      "Import Data From A Software Space To A Business Space": "Functionality related to import data from a software space to a business space, as described in the documentation."
+    }
+  },
+  {
+    "module": "Knowledge Basefind Troubleshooting Articles.View Knowledge Base",
+    "Description": "This module represents functionality related to knowledge basefind troubleshooting articles.view knowledge base, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Remove App Access For Users",
+    "Description": "This module represents functionality related to remove app access for users, derived from the product help documentation.",
+    "Submodules": {
+      "Control How Users Get Access To Apps": "Functionality related to control how users get access to apps, as described in the documentation.",
+      "Give Users Access To Apps": "Functionality related to give users access to apps, as described in the documentation."
+    }
+  },
+  {
+    "module": "Resolve Group Conflicts When Syncing Users",
+    "Description": "This module represents functionality related to resolve group conflicts when syncing users, derived from the product help documentation.",
+    "Submodules": {
+      "Manage Group Name Conflicts When Syncing Customer Organizations": "Functionality related to manage group name conflicts when syncing customer organizations, as described in the documentation.",
+      "Resolve Conflicts When Syncing Groups From Google Workspace": "Functionality related to resolve conflicts when syncing groups from google workspace, as described in the documentation."
+    }
+  },
+  {
+    "module": "Suggestions And Bug Reports",
+    "Description": "This module represents functionality related to suggestions and bug reports, derived from the product help documentation.",
+    "Submodules": {
+      "View Suggestions And Bugs": "Functionality related to view suggestions and bugs, as described in the documentation.",
+      "Find Existing Feature Suggestions And Bug Reports.": "Functionality related to find existing feature suggestions and bug reports., as described in the documentation."
+    }
+  },
+  {
+    "module": "Integrate With Feature Flags",
+    "Description": "This module represents functionality related to integrate with feature flags, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Use Applinks To Link To Atlassian Apps",
+    "Description": "This module represents functionality related to use applinks to link to atlassian apps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Import Data From Trello",
+    "Description": "This module represents functionality related to import data from trello, derived from the product help documentation.",
+    "Submodules": {
+      "Import Data Directly From Trello Into Jira": "Functionality related to import data directly from trello into jira, as described in the documentation."
+    }
+  },
+  {
+    "module": "Update Roles And Properties For Jira Users",
+    "Description": "This module represents functionality related to update roles and properties for jira users, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand Authentication Policies",
+    "Description": "This module represents functionality related to understand authentication policies, derived from the product help documentation.",
+    "Submodules": {
+      "What Is A Default Authentication Policy?": "Functionality related to what is a default authentication policy?, as described in the documentation.",
+      "Authentication Policy Settings For Your Organizations": "Functionality related to authentication policy settings for your organizations, as described in the documentation."
+    }
+  },
+  {
+    "module": "Import Csv Data With The Pvcs Command",
+    "Description": "This module represents functionality related to import csv data with the pvcs command, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Contact Us",
+    "Description": "This module represents functionality related to contact us, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Which User Management Experience Do You Have?",
+    "Description": "This module represents functionality related to which user management experience do you have?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Revoke Access For Portal-Only Customers",
+    "Description": "This module represents functionality related to revoke access for portal-only customers, derived from the product help documentation.",
+    "Submodules": {
+      "Delete Portal-Only Customers": "Functionality related to delete portal-only customers, as described in the documentation."
+    }
+  },
+  {
+    "module": "Troubleshoot Issues Related To Managing Groups",
+    "Description": "This module represents functionality related to troubleshoot issues related to managing groups, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Saml Single Sign-On For Okta",
+    "Description": "This module represents functionality related to configure saml single sign-on for okta, derived from the product help documentation.",
+    "Submodules": {
+      "Configure Saml Single Logout For Okta": "Functionality related to configure saml single logout for okta, as described in the documentation."
+    }
+  },
+  {
+    "module": "Visit Atlassian Community",
+    "Description": "This module represents functionality related to visit atlassian community, derived from the product help documentation.",
+    "Submodules": {
+      "Find Answers, Support, And Inspiration From Other Atlassian Users.": "Functionality related to find answers, support, and inspiration from other atlassian users., as described in the documentation.",
+      "Atlassian Support": "Functionality related to atlassian support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Organization Admin Abilities For Cloud Apps",
+    "Description": "This module represents functionality related to organization admin abilities for cloud apps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Find Answers Via Atlassian Support Resources",
+    "Description": "This module represents functionality related to find answers via atlassian support resources, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Success Central",
+    "Description": "This module represents functionality related to success central, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Export Users From A Site",
+    "Description": "This module represents functionality related to export users from a site, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Jira Core",
+    "Description": "This module represents functionality related to jira core, derived from the product help documentation.",
+    "Submodules": {
+      "Jira Core Support": "Functionality related to jira core support, as described in the documentation.",
+      "Jira Core Server Support": "Functionality related to jira core server support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Integrate The Jira Cloud Plugin For Copilot In Microsoft Teams",
+    "Description": "This module represents functionality related to integrate the jira cloud plugin for copilot in microsoft teams, derived from the product help documentation.",
+    "Submodules": {
+      "Integrate Jira Cloud With Microsoft Teams": "Functionality related to integrate jira cloud with microsoft teams, as described in the documentation."
+    }
+  },
+  {
+    "module": "Understand Default Groups",
+    "Description": "This module represents functionality related to understand default groups, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Reauthorize Azure Devops Using A Different Tenant",
+    "Description": "This module represents functionality related to reauthorize azure devops using a different tenant, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Troubleshoot Custom Domains",
+    "Description": "This module represents functionality related to troubleshoot custom domains, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Update Idle Session Duration",
+    "Description": "This module represents functionality related to update idle session duration, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Set Up Google Workspace",
+    "Description": "This module represents functionality related to set up google workspace, derived from the product help documentation.",
+    "Submodules": {
+      "Edit Google Workspace Settings And Users": "Functionality related to edit google workspace settings and users, as described in the documentation.",
+      "Connect To Google Workspace": "Functionality related to connect to google workspace, as described in the documentation."
+    }
+  },
+  {
+    "module": "Remove Or Deactivate A Custom Domain",
+    "Description": "This module represents functionality related to remove or deactivate a custom domain, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Get Help Using And Administering Apps.",
+    "Description": "This module represents functionality related to get help using and administering apps., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure User Provisioning For Active Directory Or Ldap",
+    "Description": "This module represents functionality related to configure user provisioning for active directory or ldap, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Training",
+    "Description": "This module represents functionality related to view training, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are The Different Types Of Admin Roles?",
+    "Description": "This module represents functionality related to what are the different types of admin roles?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Browse Resources",
+    "Description": "This module represents functionality related to browse resources, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "There Are Three Ways To Invite Users To Your Organization:",
+    "Description": "This module represents functionality related to there are three ways to invite users to your organization:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Edit Authentication Settings And Members",
+    "Description": "This module represents functionality related to edit authentication settings and members, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Your Organization\u2019S Login Page",
+    "Description": "This module represents functionality related to configure your organization\u2019s login page, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "User Management Resources",
+    "Description": "This module represents functionality related to user management resources, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "In Atlassian Administration,Usersis Located Inapps>{Site}.",
+    "Description": "This module represents functionality related to in atlassian administration,usersis located inapps>{site}., derived from the product help documentation.",
+    "Submodules": {
+      "In Atlassian Administration,Usersis Located Indirectory.": "Functionality related to in atlassian administration,usersis located indirectory., as described in the documentation."
+    }
+  },
+  {
+    "module": "Migrate From Jira Work Management To Jira",
+    "Description": "This module represents functionality related to migrate from jira work management to jira, derived from the product help documentation.",
+    "Submodules": {
+      "Jira Service Management": "Functionality related to jira service management, as described in the documentation.",
+      "Jira Service Management Support": "Functionality related to jira service management support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Map Column Data To Work Types",
+    "Description": "This module represents functionality related to map column data to work types, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Common Csv File Questions And Known Issues",
+    "Description": "This module represents functionality related to common csv file questions and known issues, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manage An Organization With The Admin Apis",
+    "Description": "This module represents functionality related to manage an organization with the admin apis, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Import Data From Json",
+    "Description": "This module represents functionality related to import data from json, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Fix Errors In A Space Import",
+    "Description": "This module represents functionality related to fix errors in a space import, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Delete A Managed Account",
+    "Description": "This module represents functionality related to delete a managed account, derived from the product help documentation.",
+    "Submodules": {
+      "Deactivate A Managed Account": "Functionality related to deactivate a managed account, as described in the documentation."
+    }
+  },
+  {
+    "module": "What Development Data Can I View In Jira?",
+    "Description": "This module represents functionality related to what development data can i view in jira?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Jira Service Management Is Getting A New Navigation",
+    "Description": "This module represents functionality related to jira service management is getting a new navigation, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Set Your Site\u2019S Landing App",
+    "Description": "This module represents functionality related to set your site\u2019s landing app, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Make Changes To A Managed Account",
+    "Description": "This module represents functionality related to make changes to a managed account, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate With Gitlab",
+    "Description": "This module represents functionality related to integrate with gitlab, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "How To Keep My Organization Secure?",
+    "Description": "This module represents functionality related to how to keep my organization secure?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Copy And Add Dns Records To Your Domain Provider",
+    "Description": "This module represents functionality related to copy and add dns records to your domain provider, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Sync User Profile Photos To Your Organization",
+    "Description": "This module represents functionality related to sync user profile photos to your organization, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Link Domains To A Different Directory",
+    "Description": "This module represents functionality related to link domains to a different directory, derived from the product help documentation.",
+    "Submodules": {
+      "Link Domains": "Functionality related to link domains, as described in the documentation."
+    }
+  },
+  {
+    "module": "Delete A Group",
+    "Description": "This module represents functionality related to delete a group, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manage Role And App Permissions",
+    "Description": "This module represents functionality related to manage role and app permissions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure User Provisioning With Google Cloud",
+    "Description": "This module represents functionality related to configure user provisioning with google cloud, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Does Updating An Atlassian App'S Url Impact The Apps Connected To It?",
+    "Description": "This module represents functionality related to does updating an atlassian app's url impact the apps connected to it?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Government Cloud Support",
+    "Description": "This module represents functionality related to government cloud support, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand Service Accounts",
+    "Description": "This module represents functionality related to understand service accounts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Add Email Addresses For Your Domain",
+    "Description": "This module represents functionality related to add email addresses for your domain, derived from the product help documentation.",
+    "Submodules": {
+      "Add Your Email Domain": "Functionality related to add your email domain, as described in the documentation."
+    }
+  },
+  {
+    "module": "Manage Your Password Policy",
+    "Description": "This module represents functionality related to manage your password policy, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Saml Single Sign-On With Ad Fs",
+    "Description": "This module represents functionality related to configure saml single sign-on with ad fs, derived from the product help documentation.",
+    "Submodules": {
+      "Configure Saml Single Sign-On With An Identity Provider": "Functionality related to configure saml single sign-on with an identity provider, as described in the documentation.",
+      "Configure Saml Single Sign-On For Portal-Only Customers": "Functionality related to configure saml single sign-on for portal-only customers, as described in the documentation."
+    }
+  },
+  {
+    "module": "Import Work Items",
+    "Description": "This module represents functionality related to import work items, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Connect Azure Devops To Jira",
+    "Description": "This module represents functionality related to connect azure devops to jira, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Marketplace",
+    "Description": "This module represents functionality related to view marketplace, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Enforce Two-Step Verification",
+    "Description": "This module represents functionality related to enforce two-step verification, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Sign In",
+    "Description": "This module represents functionality related to sign in, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Use Jira Cloud With Confluence",
+    "Description": "This module represents functionality related to use jira cloud with confluence, derived from the product help documentation.",
+    "Submodules": {
+      "Confluence Cloud Support": "Functionality related to confluence cloud support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Map Csv Data To Jira Fields",
+    "Description": "This module represents functionality related to map csv data to jira fields, derived from the product help documentation.",
+    "Submodules": {
+      "Import Data To Jira Using A Csv File": "Functionality related to import data to jira using a csv file, as described in the documentation."
+    }
+  },
+  {
+    "module": "View Developer Docs",
+    "Description": "This module represents functionality related to view developer docs, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Centralized User Management Content",
+    "Description": "This module represents functionality related to centralized user management content, derived from the product help documentation.",
+    "Submodules": {
+      "Original User Management Content": "Functionality related to original user management content, as described in the documentation."
+    }
+  },
+  {
+    "module": "Move Atlassian App Data To Another Location",
+    "Description": "This module represents functionality related to move atlassian app data to another location, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Is The Space Toolchain In Jira?",
+    "Description": "This module represents functionality related to what is the space toolchain in jira?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Edit A Group",
+    "Description": "This module represents functionality related to edit a group, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are Directories?",
+    "Description": "This module represents functionality related to what are directories?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Change Password For Portal-Only Customers",
+    "Description": "This module represents functionality related to change password for portal-only customers, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "System Statuscheck The Health Of Our Cloud Apps And Servicesview System Status",
+    "Description": "This module represents functionality related to system statuscheck the health of our cloud apps and servicesview system status, derived from the product help documentation.",
+    "Submodules": {
+      "Check The Health Of Our Cloud Apps And Services": "Functionality related to check the health of our cloud apps and services, as described in the documentation.",
+      "System Statuscheck The Health Of Our Cloud Apps And Services.View System Status": "Functionality related to system statuscheck the health of our cloud apps and services.view system status, as described in the documentation."
+    }
+  },
+  {
+    "module": "Configure Saml Single Logout For Microsoft Entra",
+    "Description": "This module represents functionality related to configure saml single logout for microsoft entra, derived from the product help documentation.",
+    "Submodules": {
+      "What Is Saml Single Logout?": "Functionality related to what is saml single logout?, as described in the documentation."
+    }
+  },
+  {
+    "module": "Make An Email Address Unavailable In An App",
+    "Description": "This module represents functionality related to make an email address unavailable in an app, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Get Technical And Migration Support For An Atlassian Government Project.",
+    "Description": "This module represents functionality related to get technical and migration support for an atlassian government project., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Invite Them Manuallyfrom Atlassian Administration.",
+    "Description": "This module represents functionality related to invite them manuallyfrom atlassian administration., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Import Data Directly From Clickup Into Jira",
+    "Description": "This module represents functionality related to import data directly from clickup into jira, derived from the product help documentation.",
+    "Submodules": {
+      "Import Data Directly From Asana Into Jira": "Functionality related to import data directly from asana into jira, as described in the documentation."
+    }
+  },
+  {
+    "module": "Log In As Another User",
+    "Description": "This module represents functionality related to log in as another user, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Automation For Authentication Policies",
+    "Description": "This module represents functionality related to automation for authentication policies, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Connect Jira To Bitbucket",
+    "Description": "This module represents functionality related to connect jira to bitbucket, derived from the product help documentation.",
+    "Submodules": {
+      "Fix Error Connections Between Jira Cloud And Bitbucket": "Functionality related to fix error connections between jira cloud and bitbucket, as described in the documentation."
+    }
+  },
+  {
+    "module": "Resend A Verification Email To A Managed Account",
+    "Description": "This module represents functionality related to resend a verification email to a managed account, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are The Benefits Of Dmarc?",
+    "Description": "This module represents functionality related to what are the benefits of dmarc?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Supported Security Protocols For Atlassian Cloud Apps",
+    "Description": "This module represents functionality related to supported security protocols for atlassian cloud apps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "How Can We Help?",
+    "Description": "This module represents functionality related to how can we help?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Store Jira Data On Your Own Device",
+    "Description": "This module represents functionality related to store jira data on your own device, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate Fisheye With Jira",
+    "Description": "This module represents functionality related to integrate fisheye with jira, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate Jira With Bamboo",
+    "Description": "This module represents functionality related to integrate jira with bamboo, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Remove User Or Suspend Their Access",
+    "Description": "This module represents functionality related to remove user or suspend their access, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Jira Service Management Data Center Support",
+    "Description": "This module represents functionality related to jira service management data center support, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Collaboration Tools",
+    "Description": "This module represents functionality related to configure collaboration tools, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Billing And Licensing",
+    "Description": "This module represents functionality related to billing and licensing, derived from the product help documentation.",
+    "Submodules": {
+      "Billing And Licensingsee Faqs About Billing And Licensing.View Faqs": "Functionality related to billing and licensingsee faqs about billing and licensing.view faqs, as described in the documentation.",
+      "See Faqs About Billing And Licensing.": "Functionality related to see faqs about billing and licensing., as described in the documentation."
+    }
+  },
+  {
+    "module": "What Are The Dns Records Required For Configuring Dmarc?",
+    "Description": "This module represents functionality related to what are the dns records required for configuring dmarc?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Monitor Your Plan'S User Counts",
+    "Description": "This module represents functionality related to monitor your plan's user counts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand User Provisioning",
+    "Description": "This module represents functionality related to understand user provisioning, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Migrate From Other Work Trackers",
+    "Description": "This module represents functionality related to migrate from other work trackers, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Access A Space",
+    "Description": "This module represents functionality related to access a space, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Automate What Build And Deployment Events Are Sent From Jenkins To Jira",
+    "Description": "This module represents functionality related to automate what build and deployment events are sent from jenkins to jira, derived from the product help documentation.",
+    "Submodules": {
+      "How Jenkins For Jira Works": "Functionality related to how jenkins for jira works, as described in the documentation."
+    }
+  },
+  {
+    "module": "Integrate With Jenkins",
+    "Description": "This module represents functionality related to integrate with jenkins, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Bitbucket Support",
+    "Description": "This module represents functionality related to bitbucket support, derived from the product help documentation.",
+    "Submodules": {
+      "Bitbucket Cloud Support": "Functionality related to bitbucket cloud support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Find Api Documentation And Guides For Developing Apps And Integrations.",
+    "Description": "This module represents functionality related to find api documentation and guides for developing apps and integrations., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Jump To The",
+    "Description": "This module represents functionality related to jump to the, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Log In To Contact Support",
+    "Description": "This module represents functionality related to log in to contact support, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Can I Restore An Organization?",
+    "Description": "This module represents functionality related to can i restore an organization?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Not Finding The Help You Need?",
+    "Description": "This module represents functionality related to not finding the help you need?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Migrate A Portal-Only Customer To Atlassian Account",
+    "Description": "This module represents functionality related to migrate a portal-only customer to atlassian account, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Trello Support",
+    "Description": "This module represents functionality related to trello support, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Notice At Collection",
+    "Description": "This module represents functionality related to notice at collection, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Browse By Apps",
+    "Description": "This module represents functionality related to browse by apps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Use Jira Cloud On Apple And Android Devices",
+    "Description": "This module represents functionality related to use jira cloud on apple and android devices, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Api Token Activity",
+    "Description": "This module represents functionality related to view api token activity, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Und",
+    "Description": "This module represents functionality related to und, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Featured Content",
+    "Description": "This module represents functionality related to featured content, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Add A Custom Domain",
+    "Description": "This module represents functionality related to add a custom domain, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are Managed Accounts?",
+    "Description": "This module represents functionality related to what are managed accounts?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manage Google Workspace User Syncing",
+    "Description": "This module represents functionality related to manage google workspace user syncing, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Get Started",
+    "Description": "This module represents functionality related to get started, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand Atlassian Guard",
+    "Description": "This module represents functionality related to understand atlassian guard, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Remove An Email Domain",
+    "Description": "This module represents functionality related to remove an email domain, derived from the product help documentation.",
+    "Submodules": {
+      "Remove An Email Address For Your Domain": "Functionality related to remove an email address for your domain, as described in the documentation."
+    }
+  },
+  {
+    "module": "Require Users To Log In With Google",
+    "Description": "This module represents functionality related to require users to log in with google, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate Jira Cloud With Gmail",
+    "Description": "This module represents functionality related to integrate jira cloud with gmail, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Export Accounts From Domains",
+    "Description": "This module represents functionality related to export accounts from domains, derived from the product help documentation.",
+    "Submodules": {
+      "Export Managed Accounts": "Functionality related to export managed accounts, as described in the documentation."
+    }
+  },
+  {
+    "module": "Invite A User",
+    "Description": "This module represents functionality related to invite a user, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Is The Free Jira Cloud Plan?",
+    "Description": "This module represents functionality related to what is the free jira cloud plan?, derived from the product help documentation.",
+    "Submodules": {
+      "Explore Jira Cloud Planswhat Is The Free Jira Cloud Plan?": "Functionality related to explore jira cloud planswhat is the free jira cloud plan?, as described in the documentation."
+    }
+  },
+  {
+    "module": "Track Or Review User Interests",
+    "Description": "This module represents functionality related to track or review user interests, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Track Storage And Move Data Across Apps",
+    "Description": "This module represents functionality related to track storage and move data across apps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand Data Residency",
+    "Description": "This module represents functionality related to understand data residency, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Back Up Your Data",
+    "Description": "This module represents functionality related to back up your data, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are The Benefits Of Multiple Instances?",
+    "Description": "This module represents functionality related to what are the benefits of multiple instances?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are The Steps For Setting Up Custom Email Addresses?",
+    "Description": "This module represents functionality related to what are the steps for setting up custom email addresses?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Delete Your Organization",
+    "Description": "This module represents functionality related to delete your organization, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Use A Configuration File For Space Imports",
+    "Description": "This module represents functionality related to use a configuration file for space imports, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Revoke User Api Tokens",
+    "Description": "This module represents functionality related to revoke user api tokens, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand Customer Provisioning For Jira Service Management",
+    "Description": "This module represents functionality related to understand customer provisioning for jira service management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Set Mobile App Session Expiration",
+    "Description": "This module represents functionality related to set mobile app session expiration, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Different Account Types Can Customers Have?",
+    "Description": "This module represents functionality related to what different account types can customers have?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Use Jira Cloud For Sheets",
+    "Description": "This module represents functionality related to use jira cloud for sheets, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What Are Linked Domains?",
+    "Description": "This module represents functionality related to what are linked domains?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understand User Api Tokens",
+    "Description": "This module represents functionality related to understand user api tokens, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Verify A Domain To Manage Accounts",
+    "Description": "This module represents functionality related to verify a domain to manage accounts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Approve Or Deny App Access Requests",
+    "Description": "This module represents functionality related to approve or deny app access requests, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Import Data From Bitbucket",
+    "Description": "This module represents functionality related to import data from bitbucket, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Remove Domains And Apps From Your Organization",
+    "Description": "This module represents functionality related to remove domains and apps from your organization, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Disconnect Your Identity Provider",
+    "Description": "This module represents functionality related to disconnect your identity provider, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Edit Name For Portal-Only Customers",
+    "Description": "This module represents functionality related to edit name for portal-only customers, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Development Tools",
+    "Description": "This module represents functionality related to configure development tools, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Knowledge Base",
+    "Description": "This module represents functionality related to knowledge base, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Sync User Attributes To Your Organization",
+    "Description": "This module represents functionality related to sync user attributes to your organization, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Success Central",
+    "Description": "This module represents functionality related to view success central, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Enable Smart Commits",
+    "Description": "This module represents functionality related to enable smart commits, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Check The Health Of Our Cloud Apps And Services.",
+    "Description": "This module represents functionality related to check the health of our cloud apps and services., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "G Suite Connection Troubleshooting",
+    "Description": "This module represents functionality related to g suite connection troubleshooting, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate With Confluence",
+    "Description": "This module represents functionality related to integrate with confluence, derived from the product help documentation.",
+    "Submodules": {
+      "Confluence Support": "Functionality related to confluence support, as described in the documentation."
+    }
+  },
+  {
+    "module": "Users And Groups Limits",
+    "Description": "This module represents functionality related to users and groups limits, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Ip Addresses And Domains For Atlassian Cloud Apps",
+    "Description": "This module represents functionality related to ip addresses and domains for atlassian cloud apps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Faqs",
+    "Description": "This module represents functionality related to view faqs, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "How Does App Access Work?",
+    "Description": "This module represents functionality related to how does app access work?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Find Troubleshooting Articles.",
+    "Description": "This module represents functionality related to find troubleshooting articles., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Enable Parallel Sprints In Jira",
+    "Description": "This module represents functionality related to enable parallel sprints in jira, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Admin Roles Don\u2019T Always Give Access",
+    "Description": "This module represents functionality related to admin roles don\u2019t always give access, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Training And Certification",
+    "Description": "This module represents functionality related to training and certification, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Gain Insights Into App Usage And Security Practices",
+    "Description": "This module represents functionality related to gain insights into app usage and security practices, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Documentationget Help Using And Administering Apps.View Documentation",
+    "Description": "This module represents functionality related to documentationget help using and administering apps.view documentation, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrate Ap",
+    "Description": "This module represents functionality related to integrate ap, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manage Api Tokens For Service Accounts",
+    "Description": "This module represents functionality related to manage api tokens for service accounts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Import Issu",
+    "Description": "This module represents functionality related to import issu, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure User Provisioning With Okta",
+    "Description": "This module represents functionality related to configure user provisioning with okta, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Link Jira To Atlassian Apps Using Oauth 2.0",
+    "Description": "This module represents functionality related to link jira to atlassian apps using oauth 2.0, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Make Atlassian'S Global Account Model Work For You",
+    "Description": "This module represents functionality related to make atlassian's global account model work for you, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Learn About Atlassian Enterprise And Its Data Center Products.",
+    "Description": "This module represents functionality related to learn about atlassian enterprise and its data center products., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Enterprise Documentation",
+    "Description": "This module represents functionality related to view enterprise documentation, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Export Data From Jira Cloud",
+    "Description": "This module represents functionality related to export data from jira cloud, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Create Oauth 2.0 Credential For Service Accounts",
+    "Description": "This module represents functionality related to create oauth 2.0 credential for service accounts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Move Your Marketplace Apps Data To Another Location",
+    "Description": "This module represents functionality related to move your marketplace apps data to another location, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Create Groups",
+    "Description": "This module represents functionality related to create groups, derived from the product help documentation.",
+    "Submodules": {}
+  }
+]
