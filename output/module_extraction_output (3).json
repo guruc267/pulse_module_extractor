@@ -1,0 +1,1703 @@
+[
+  {
+    "module": "Entitlements Across Industries.",
+    "Description": "This module represents functionality related to entitlements across industries., derived from the product help documentation.",
+    "Submodules": {
+      "Entitlements Overview": "Functionality related to entitlements overview, as described in the documentation.",
+      "Customer Entitlements": "Functionality related to customer entitlements, as described in the documentation."
+    }
+  },
+  {
+    "module": "Pause Subscription",
+    "Description": "This module represents functionality related to pause subscription, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Eurozone \u00c2\u0080\u0093Sepa (Single Euro Payments Area)",
+    "Description": "This module represents functionality related to eurozone \u00e2\u0080\u0093sepa (single euro payments area), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Setting Up Usage Based Billing",
+    "Description": "This module represents functionality related to setting up usage based billing, derived from the product help documentation.",
+    "Submodules": {
+      "Usage Based Billing": "Functionality related to usage based billing, as described in the documentation."
+    }
+  },
+  {
+    "module": "Checkout And Complete Purchases With Various Payment Methods.",
+    "Description": "This module represents functionality related to checkout and complete purchases with various payment methods., derived from the product help documentation.",
+    "Submodules": {
+      "Payment Methods": "Functionality related to payment methods, as described in the documentation.",
+      "Payment Methods Overview": "Functionality related to payment methods overview, as described in the documentation."
+    }
+  },
+  {
+    "module": "Configuring Reminder Invoice List",
+    "Description": "This module represents functionality related to configuring reminder invoice list, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Locali",
+    "Description": "This module represents functionality related to locali, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Learn About Chargebeewith Videos",
+    "Description": "This module represents functionality related to learn about chargebeewith videos, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Use Cases Of Auto Engagement",
+    "Description": "This module represents functionality related to use cases of auto engagement, derived from the product help documentation.",
+    "Submodules": {
+      "Automate Channelisation Of Engagement": "Functionality related to automate channelisation of engagement, as described in the documentation.",
+      "Auto Engagement": "Functionality related to auto engagement, as described in the documentation."
+    }
+  },
+  {
+    "module": "Creating Your Reasons",
+    "Description": "This module represents functionality related to creating your reasons, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Upgrade Product Catalog",
+    "Description": "This module represents functionality related to upgrade product catalog, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Number Of Users Accessing A Saas Platform.",
+    "Description": "This module represents functionality related to number of users accessing a saas platform., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "File Attachments & Comments",
+    "Description": "This module represents functionality related to file attachments & comments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Mastercard Trial Rules",
+    "Description": "This module represents functionality related to mastercard trial rules, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Ar Overview",
+    "Description": "This module represents functionality related to ar overview, derived from the product help documentation.",
+    "Submodules": {
+      "Ar Trends": "Functionality related to ar trends, as described in the documentation.",
+      "Ar Analytics": "Functionality related to ar analytics, as described in the documentation."
+    }
+  },
+  {
+    "module": "Payment Gateways And Configuration",
+    "Description": "This module represents functionality related to payment gateways and configuration, derived from the product help documentation.",
+    "Submodules": {
+      "Supported Gateways And Payment Methods": "Functionality related to supported gateways and payment methods, as described in the documentation.",
+      "Payment Gateways Overview": "Functionality related to payment gateways overview, as described in the documentation."
+    }
+  },
+  {
+    "module": "Modified 30/360 Ratable Plan",
+    "Description": "This module represents functionality related to modified 30/360 ratable plan, derived from the product help documentation.",
+    "Submodules": {
+      "30/360 Ratable Plan": "Functionality related to 30/360 ratable plan, as described in the documentation."
+    }
+  },
+  {
+    "module": "Enableemail Notifications V2For Your Chargebee Site.",
+    "Description": "This module represents functionality related to enableemail notifications v2for your chargebee site., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Expense Account Types",
+    "Description": "This module represents functionality related to expense account types, derived from the product help documentation.",
+    "Submodules": {
+      "Revenue Account Types": "Functionality related to revenue account types, as described in the documentation."
+    }
+  },
+  {
+    "module": "Ratable Revenue Recognition",
+    "Description": "This module represents functionality related to ratable revenue recognition, derived from the product help documentation.",
+    "Submodules": {
+      "Proportional Performance Revenue Recognition": "Functionality related to proportional performance revenue recognition, as described in the documentation.",
+      "Revenue Recognition": "Functionality related to revenue recognition, as described in the documentation.",
+      "Revenue Recognition Methods": "Functionality related to revenue recognition methods, as described in the documentation.",
+      "Revrec Currently Supports The Following Ratable Methods Of Revenue Recognition:": "Functionality related to revrec currently supports the following ratable methods of revenue recognition:, as described in the documentation."
+    }
+  },
+  {
+    "module": "Setting Up Multiple Gateway Accounts",
+    "Description": "This module represents functionality related to setting up multiple gateway accounts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Formula: Open Debits = Total Debit Balance As Of Date.",
+    "Description": "This module represents functionality related to formula: open debits = total debit balance as of date., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee Agents",
+    "Description": "This module represents functionality related to chargebee agents, derived from the product help documentation.",
+    "Submodules": {
+      "Chargebee'S Product Suite": "Functionality related to chargebee's product suite, as described in the documentation."
+    }
+  },
+  {
+    "module": "Configure Automation Rules",
+    "Description": "This module represents functionality related to configure automation rules, derived from the product help documentation.",
+    "Submodules": {
+      "Automationsconfigure Automation Rulescanned Automations": "Functionality related to automationsconfigure automation rulescanned automations, as described in the documentation."
+    }
+  },
+  {
+    "module": "Managing Payments With Chargebeejs",
+    "Description": "This module represents functionality related to managing payments with chargebeejs, derived from the product help documentation.",
+    "Submodules": {
+      "Chargebee Billing Integration Features": "Functionality related to chargebee billing integration features, as described in the documentation.",
+      "Managing Payments With Chargebee.Js": "Functionality related to managing payments with chargebee.js, as described in the documentation.",
+      "Integrating With Chargebee Billing": "Functionality related to integrating with chargebee billing, as described in the documentation.",
+      "Managing In-App Purchases With Chargebee": "Functionality related to managing in-app purchases with chargebee, as described in the documentation."
+    }
+  },
+  {
+    "module": "Retention Workflow Session Fees",
+    "Description": "This module represents functionality related to retention workflow session fees, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Network Merchants Incorporated (Nmi)",
+    "Description": "This module represents functionality related to network merchants incorporated (nmi), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "See Also",
+    "Description": "This module represents functionality related to see also, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Create An Offer",
+    "Description": "This module represents functionality related to create an offer, derived from the product help documentation.",
+    "Submodules": {
+      "Creating The Perfect Offer": "Functionality related to creating the perfect offer, as described in the documentation."
+    }
+  },
+  {
+    "module": "Estimating Engineering Time And Effort",
+    "Description": "This module represents functionality related to estimating engineering time and effort, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Sweden \u00c2\u0080\u0093Autogiro",
+    "Description": "This module represents functionality related to sweden \u00e2\u0080\u0093autogiro, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Pay Invoices.",
+    "Description": "This module represents functionality related to pay invoices., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Receivables Tech Glossary",
+    "Description": "This module represents functionality related to receivables tech glossary, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee Cpq For Salesforce",
+    "Description": "This module represents functionality related to chargebee cpq for salesforce, derived from the product help documentation.",
+    "Submodules": {
+      "Chargebee Cpq For Hubspot": "Functionality related to chargebee cpq for hubspot, as described in the documentation.",
+      "Chargebee Cpq": "Functionality related to chargebee cpq, as described in the documentation."
+    }
+  },
+  {
+    "module": "Trial Management",
+    "Description": "This module represents functionality related to trial management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Mobile Subscriptions (Legacy)",
+    "Description": "This module represents functionality related to mobile subscriptions (legacy), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Credit Transfer",
+    "Description": "This module represents functionality related to credit transfer, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Sage Intacct",
+    "Description": "This module represents functionality related to sage intacct, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Saas Company",
+    "Description": "This module represents functionality related to saas company, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Verification",
+    "Description": "This module represents functionality related to payment verification, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Getting Started",
+    "Description": "This module represents functionality related to getting started, derived from the product help documentation.",
+    "Submodules": {
+      "Getting Started Guide": "Functionality related to getting started guide, as described in the documentation."
+    }
+  },
+  {
+    "module": "Canada \u00c2\u0080\u0093Pads (Pre-Authorized Debits)",
+    "Description": "This module represents functionality related to canada \u00e2\u0080\u0093pads (pre-authorized debits), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - Use American English Spellings (E.G., \"Aging\" Instead Of \"Ageing\").",
+    "Description": "This module represents functionality related to // - use american english spellings (e.g., \"aging\" instead of \"ageing\")., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "About Chargebee Revrec",
+    "Description": "This module represents functionality related to about chargebee revrec, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Metrics Global",
+    "Description": "This module represents functionality related to metrics global, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Testing In Chargebee Retention",
+    "Description": "This module represents functionality related to testing in chargebee retention, derived from the product help documentation.",
+    "Submodules": {
+      "Chargebee Retention Category & Reasons": "Functionality related to chargebee retention category & reasons, as described in the documentation.",
+      "Chargebee Retention Security Overview": "Functionality related to chargebee retention security overview, as described in the documentation.",
+      "Integrate Chargebee Retention Via Chargebee.Js": "Functionality related to integrate chargebee retention via chargebee.js, as described in the documentation.",
+      "Overview Of Chargebee Retention Reports": "Functionality related to overview of chargebee retention reports, as described in the documentation.",
+      "Chargebee Retention Glossary": "Functionality related to chargebee retention glossary, as described in the documentation."
+    }
+  },
+  {
+    "module": "// - Clarify Passive Or Wordy Sentences For Directness And Clarity.",
+    "Description": "This module represents functionality related to // - clarify passive or wordy sentences for directness and clarity., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Revrec Workflow",
+    "Description": "This module represents functionality related to revrec workflow, derived from the product help documentation.",
+    "Submodules": {
+      "Getting Started With Revrec": "Functionality related to getting started with revrec, as described in the documentation."
+    }
+  },
+  {
+    "module": "Quick Start Guide",
+    "Description": "This module represents functionality related to quick start guide, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Email Notifications",
+    "Description": "This module represents functionality related to email notifications, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee Offers Two Billing Frequency Options For Subscriptions:",
+    "Description": "This module represents functionality related to chargebee offers two billing frequency options for subscriptions:, derived from the product help documentation.",
+    "Submodules": {
+      "Subscription Billing Frequency": "Functionality related to subscription billing frequency, as described in the documentation.",
+      "Chargebee Billing Features": "Functionality related to chargebee billing features, as described in the documentation."
+    }
+  },
+  {
+    "module": "Mobile Stores",
+    "Description": "This module represents functionality related to mobile stores, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Product Catalog Overview",
+    "Description": "This module represents functionality related to product catalog overview, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Order Management",
+    "Description": "This module represents functionality related to order management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Overview Of Revrec Reporting",
+    "Description": "This module represents functionality related to overview of revrec reporting, derived from the product help documentation.",
+    "Submodules": {
+      "Revrec Standard Reports": "Functionality related to revrec standard reports, as described in the documentation.",
+      "Key Features Of Revrec": "Functionality related to key features of revrec, as described in the documentation."
+    }
+  },
+  {
+    "module": "Manual Discounts",
+    "Description": "This module represents functionality related to manual discounts, derived from the product help documentation.",
+    "Submodules": {
+      "Recognizing Discounts": "Functionality related to recognizing discounts, as described in the documentation."
+    }
+  },
+  {
+    "module": "Create A Loss Aversion Card",
+    "Description": "This module represents functionality related to create a loss aversion card, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Answers To Common Questions",
+    "Description": "This module represents functionality related to answers to common questions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "3. Build Your Experiences",
+    "Description": "This module represents functionality related to 3. build your experiences, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Editing Your Cancel Page",
+    "Description": "This module represents functionality related to editing your cancel page, derived from the product help documentation.",
+    "Submodules": {
+      "Edit Your Cancel Page Template": "Functionality related to edit your cancel page template, as described in the documentation."
+    }
+  },
+  {
+    "module": "Chargebee Mcp Server (Model Context Protocol)",
+    "Description": "This module represents functionality related to chargebee mcp server (model context protocol), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Go-Live Checklist",
+    "Description": "This module represents functionality related to go-live checklist, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understanding Journal Entries",
+    "Description": "This module represents functionality related to understanding journal entries, derived from the product help documentation.",
+    "Submodules": {
+      "Creating Journal Entries": "Functionality related to creating journal entries, as described in the documentation."
+    }
+  },
+  {
+    "module": "Advanced Routing",
+    "Description": "This module represents functionality related to advanced routing, derived from the product help documentation.",
+    "Submodules": {
+      "Smart Routing": "Functionality related to smart routing, as described in the documentation."
+    }
+  },
+  {
+    "module": "Can'T Find What You'Re Looking For?",
+    "Description": "This module represents functionality related to can't find what you're looking for?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Data Processing & Validation",
+    "Description": "This module represents functionality related to data processing & validation, derived from the product help documentation.",
+    "Submodules": {
+      "Data Validation": "Functionality related to data validation, as described in the documentation."
+    }
+  },
+  {
+    "module": "Working With Subscriptions",
+    "Description": "This module represents functionality related to working with subscriptions, derived from the product help documentation.",
+    "Submodules": {
+      "View And Manage Subscriptions.": "Functionality related to view and manage subscriptions., as described in the documentation."
+    }
+  },
+  {
+    "module": "Bank-Based Payments",
+    "Description": "This module represents functionality related to bank-based payments, derived from the product help documentation.",
+    "Submodules": {
+      "Bank Based Payments": "Functionality related to bank based payments, as described in the documentation."
+    }
+  },
+  {
+    "module": "General Ledger & Accounting Close",
+    "Description": "This module represents functionality related to general ledger & accounting close, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configuring Product Catalog",
+    "Description": "This module represents functionality related to configuring product catalog, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Revrec Essential",
+    "Description": "This module represents functionality related to revrec essential, derived from the product help documentation.",
+    "Submodules": {
+      "Getting Around Revrec Premium": "Functionality related to getting around revrec premium, as described in the documentation."
+    }
+  },
+  {
+    "module": "Eway Rapid",
+    "Description": "This module represents functionality related to eway rapid, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Articles And Faq",
+    "Description": "This module represents functionality related to articles and faq, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Frequently Asked Post-Launch Questions",
+    "Description": "This module represents functionality related to frequently asked post-launch questions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Quickbooks Payments",
+    "Description": "This module represents functionality related to quickbooks payments, derived from the product help documentation.",
+    "Submodules": {
+      "Quickbooks Online": "Functionality related to quickbooks online, as described in the documentation."
+    }
+  },
+  {
+    "module": "Ensure That Your Users Are Accessing Features That They'Re Entitled To",
+    "Description": "This module represents functionality related to ensure that your users are accessing features that they're entitled to, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Formula: Unutilized Credit = Total Unadjusted Credit Amount As Of Today.",
+    "Description": "This module represents functionality related to formula: unutilized credit = total unadjusted credit amount as of today., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Uk \u00c2\u0080\u0093Bacs (Bankers' Automated Clearing System)",
+    "Description": "This module represents functionality related to uk \u00e2\u0080\u0093bacs (bankers' automated clearing system), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Retention Use Cases",
+    "Description": "This module represents functionality related to retention use cases, derived from the product help documentation.",
+    "Submodules": {
+      "Testing In Retention": "Functionality related to testing in retention, as described in the documentation.",
+      "Retention Testing Methodology": "Functionality related to retention testing methodology, as described in the documentation."
+    }
+  },
+  {
+    "module": "Developer Resources Overview",
+    "Description": "This module represents functionality related to developer resources overview, derived from the product help documentation.",
+    "Submodules": {
+      "Developer Resources": "Functionality related to developer resources, as described in the documentation."
+    }
+  },
+  {
+    "module": "Point In Time",
+    "Description": "This module represents functionality related to point in time, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "E-Xact Direct Integration",
+    "Description": "This module represents functionality related to e-xact direct integration, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "2. Start With An Audit",
+    "Description": "This module represents functionality related to 2. start with an audit, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Multiple Languages",
+    "Description": "This module represents functionality related to configure multiple languages, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Here Is An Overview Ofdirect Debit Paymentspossible With Chargebee.",
+    "Description": "This module represents functionality related to here is an overview ofdirect debit paymentspossible with chargebee., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "4. Technical Implementation",
+    "Description": "This module represents functionality related to 4. technical implementation, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Feature Management",
+    "Description": "This module represents functionality related to feature management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Multi-Decimal Support",
+    "Description": "This module represents functionality related to multi-decimal support, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrations Overview",
+    "Description": "This module represents functionality related to integrations overview, derived from the product help documentation.",
+    "Submodules": {
+      "Other Integrations": "Functionality related to other integrations, as described in the documentation."
+    }
+  },
+  {
+    "module": "Multicurrency Pricing",
+    "Description": "This module represents functionality related to multicurrency pricing, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "2025@Chargebee, Inc",
+    "Description": "This module represents functionality related to 2025@chargebee, inc, derived from the product help documentation.",
+    "Submodules": {
+      "\u00c2\u00a9 2025, Chargebee Inc.": "Functionality related to \u00e2\u00a9 2025, chargebee inc., as described in the documentation."
+    }
+  },
+  {
+    "module": "Use Your Own Smtp Server",
+    "Description": "This module represents functionality related to use your own smtp server, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manage Subscriptions, Billing, And Invoicing At Scale.",
+    "Description": "This module represents functionality related to manage subscriptions, billing, and invoicing at scale., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configuring Taxes",
+    "Description": "This module represents functionality related to configuring taxes, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Retries With Flexpay",
+    "Description": "This module represents functionality related to payment retries with flexpay, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Omnichannel Subscriptions",
+    "Description": "This module represents functionality related to omnichannel subscriptions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "The Usage Event Data For A Data Uploadevent Includes Properties Like St",
+    "Description": "This module represents functionality related to the usage event data for adata uploadevent includes properties like st, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Get Paid Faster With A Proactive Collection Strategy.",
+    "Description": "This module represents functionality related to get paid faster with a proactive collection strategy., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Errors With Root Cause And Troubleshooting",
+    "Description": "This module represents functionality related to errors with root cause and troubleshooting, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Site Configuration",
+    "Description": "This module represents functionality related to site configuration, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Essentials Trial Faq",
+    "Description": "This module represents functionality related to essentials trial faq, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Hosted Pages Features",
+    "Description": "This module represents functionality related to hosted pages features, derived from the product help documentation.",
+    "Submodules": {
+      "Additional Hosted Pages": "Functionality related to additional hosted pages, as described in the documentation."
+    }
+  },
+  {
+    "module": "Using A Custom Domain For Your Cancel Page Url",
+    "Description": "This module represents functionality related to using a custom domain for your cancel page url, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - Use Consistent Casing For Ui Labels.",
+    "Description": "This module represents functionality related to // - use consistent casing for ui labels., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Receivables View",
+    "Description": "This module represents functionality related to receivables view, derived from the product help documentation.",
+    "Submodules": {
+      "Receivables Reports": "Functionality related to receivables reports, as described in the documentation."
+    }
+  },
+  {
+    "module": "For Your Specific Requirements",
+    "Description": "This module represents functionality related to for your specific requirements, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Retries With Success+",
+    "Description": "This module represents functionality related to payment retries with success+, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Amazon Payments",
+    "Description": "This module represents functionality related to amazon payments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Orbital (Chase Paymentech)",
+    "Description": "This module represents functionality related to orbital (chase paymentech), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee Copilot",
+    "Description": "This module represents functionality related to chargebee copilot, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Multi Business Entity Overview",
+    "Description": "This module represents functionality related to multi business entity overview, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configuring Reason Codes",
+    "Description": "This module represents functionality related to configuring reason codes, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Easily Integrate Erps For Streamlining Your Business Functions And Processes.",
+    "Description": "This module represents functionality related to easily integrate erps for streamlining your business functions and processes., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Navigating The Dashboard",
+    "Description": "This module represents functionality related to navigating the dashboard, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Processing Cancels And Offers",
+    "Description": "This module represents functionality related to processing cancels and offers, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Frequently Asked Questions",
+    "Description": "This module represents functionality related to frequently asked questions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Hosted Capabilities",
+    "Description": "This module represents functionality related to hosted capabilities, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Hipaa Guidelines",
+    "Description": "This module represents functionality related to hipaa guidelines, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Offline Payments",
+    "Description": "This module represents functionality related to offline payments, derived from the product help documentation.",
+    "Submodules": {
+      "Offline Checkout": "Functionality related to offline checkout, as described in the documentation.",
+      "Online Payments": "Functionality related to online payments, as described in the documentation."
+    }
+  },
+  {
+    "module": "Configuring Ledger Statements",
+    "Description": "This module represents functionality related to configuring ledger statements, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "J.P. Morgan Mobility Payment Solutions",
+    "Description": "This module represents functionality related to j.p. morgan mobility payment solutions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understanding Sites",
+    "Description": "This module represents functionality related to understanding sites, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Subscription Ramps",
+    "Description": "This module represents functionality related to subscription ramps, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Co-Badged Card Compliance",
+    "Description": "This module represents functionality related to co-badged card compliance, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargeback Management",
+    "Description": "This module represents functionality related to chargeback management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Iot Company",
+    "Description": "This module represents functionality related to iot company, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Customer Transfer Overview",
+    "Description": "This module represents functionality related to customer transfer overview, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Compliance Certificates",
+    "Description": "This module represents functionality related to compliance certificates, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Omnichannel One-Time Orders",
+    "Description": "This module represents functionality related to omnichannel one-time orders, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Direct Debit",
+    "Description": "This module represents functionality related to direct debit, derived from the product help documentation.",
+    "Submodules": {
+      "Direct Debit Payments": "Functionality related to direct debit payments, as described in the documentation."
+    }
+  },
+  {
+    "module": "Rbi E-Mandate",
+    "Description": "This module represents functionality related to rbi e-mandate, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Managing Customer Details",
+    "Description": "This module represents functionality related to managing customer details, derived from the product help documentation.",
+    "Submodules": {
+      "Managing Customers": "Functionality related to managing customers, as described in the documentation."
+    }
+  },
+  {
+    "module": "Pending Collectibility",
+    "Description": "This module represents functionality related to pending collectibility, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "1. Web Interface",
+    "Description": "This module represents functionality related to 1. web interface, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Starter Churn Insights",
+    "Description": "This module represents functionality related to starter churn insights, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Implementation Guide",
+    "Description": "This module represents functionality related to implementation guide, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Here Are The Major Steps Visualized In The Auto Engagement Cycle Phases.",
+    "Description": "This module represents functionality related to here are the major steps visualized in the auto engagement cycle phases., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Global Payments",
+    "Description": "This module represents functionality related to global payments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Types Of Payment Methods",
+    "Description": "This module represents functionality related to types of payment methods, derived from the product help documentation.",
+    "Submodules": {
+      "Learn Moreabout These Payment Methods.": "Functionality related to learn moreabout these payment methods., as described in the documentation.",
+      "Custom Payment Methods": "Functionality related to custom payment methods, as described in the documentation."
+    }
+  },
+  {
+    "module": "Payment Initiator Parameter",
+    "Description": "This module represents functionality related to payment initiator parameter, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Preview Current And Upcoming Charges.",
+    "Description": "This module represents functionality related to preview current and upcoming charges., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Preferences",
+    "Description": "This module represents functionality related to payment preferences, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Ar Dashboard Views",
+    "Description": "This module represents functionality related to ar dashboard views, derived from the product help documentation.",
+    "Submodules": {
+      "Ar Dashboard Components": "Functionality related to ar dashboard components, as described in the documentation.",
+      "Ar Dashboard": "Functionality related to ar dashboard, as described in the documentation."
+    }
+  },
+  {
+    "module": "Canned Automations",
+    "Description": "This module represents functionality related to canned automations, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Transaction Sync And Invoice Mapping",
+    "Description": "This module represents functionality related to transaction sync and invoice mapping, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Integrated Reports",
+    "Description": "This module represents functionality related to integrated reports, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Email And Sms Templates",
+    "Description": "This module represents functionality related to email and sms templates, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Proportional Performance",
+    "Description": "This module represents functionality related to proportional performance, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Receivables Crm (Collector Queue)",
+    "Description": "This module represents functionality related to receivables crm (collector queue), derived from the product help documentation.",
+    "Submodules": {
+      "Collector Queue": "Functionality related to collector queue, as described in the documentation."
+    }
+  },
+  {
+    "module": "Properties And Operators In The Rules Editor",
+    "Description": "This module represents functionality related to properties and operators in the rules editor, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "5. Go Live!",
+    "Description": "This module represents functionality related to 5. go live!, derived from the product help documentation.",
+    "Submodules": {
+      "5. Go Live": "Functionality related to 5. go live, as described in the documentation."
+    }
+  },
+  {
+    "module": "Leverage Additional Revenue Opportunities",
+    "Description": "This module represents functionality related to leverage additional revenue opportunities, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Formula: Overdue Composition= (Net Overdue Amount/Total Outstanding)*100.",
+    "Description": "This module represents functionality related to formula: overdue composition= (net overdue amount/total outstanding)*100., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "There Are More Ways To Connect",
+    "Description": "This module represents functionality related to there are more ways to connect, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "End Month Exclusive",
+    "Description": "This module represents functionality related to end month exclusive, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Features And Overview",
+    "Description": "This module represents functionality related to features and overview, derived from the product help documentation.",
+    "Submodules": {
+      "Features Overview": "Functionality related to features overview, as described in the documentation."
+    }
+  },
+  {
+    "module": "Advanced Concepts",
+    "Description": "This module represents functionality related to advanced concepts, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Smart Retry",
+    "Description": "This module represents functionality related to smart retry, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Classic Ratable Plan",
+    "Description": "This module represents functionality related to classic ratable plan, derived from the product help documentation.",
+    "Submodules": {
+      "Daily Ratable Plan": "Functionality related to daily ratable plan, as described in the documentation."
+    }
+  },
+  {
+    "module": "Offline Dunning V1",
+    "Description": "This module represents functionality related to offline dunning v1, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Journal Posting & Closing Accounting Period",
+    "Description": "This module represents functionality related to journal posting & closing accounting period, derived from the product help documentation.",
+    "Submodules": {
+      "Managing Accounting Period Close": "Functionality related to managing accounting period close, as described in the documentation."
+    }
+  },
+  {
+    "module": "Mandatory Fields",
+    "Description": "This module represents functionality related to mandatory fields, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Multiple Retries Causing A Higher Decline Ratio",
+    "Description": "This module represents functionality related to multiple retries causing a higher decline ratio, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Automating Payment Failure Management",
+    "Description": "This module represents functionality related to automating payment failure management, derived from the product help documentation.",
+    "Submodules": {
+      "Payment Failure Recovery": "Functionality related to payment failure recovery, as described in the documentation.",
+      "Payment Failure Management": "Functionality related to payment failure management, as described in the documentation."
+    }
+  },
+  {
+    "module": "Provide A Valid Vat Number.",
+    "Description": "This module represents functionality related to provide a valid vat number., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Faqs For Classic Reports Sunset",
+    "Description": "This module represents functionality related to faqs for classic reports sunset, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Next Billing Date",
+    "Description": "This module represents functionality related to next billing date, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Getting To Know The Experience Manager",
+    "Description": "This module represents functionality related to getting to know the experience manager, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Time Machine",
+    "Description": "This module represents functionality related to time machine, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Ar Visibility",
+    "Description": "This module represents functionality related to ar visibility, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Accounting Rules Versioning",
+    "Description": "This module represents functionality related to accounting rules versioning, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Types Of Data To Send To Retention",
+    "Description": "This module represents functionality related to types of data to send to retention, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configuring Account Statement",
+    "Description": "This module represents functionality related to configuring account statement, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Connecting Your Billing Platform For Processing, Enrichment, And Attribution",
+    "Description": "This module represents functionality related to connecting your billing platform for processing, enrichment, and attribution, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Psd2 And Strong Customer Authentication",
+    "Description": "This module represents functionality related to psd2 and strong customer authentication, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Automate Recurring Payments For Customers Across The Globe.",
+    "Description": "This module represents functionality related to automate recurring payments for customers across the globe., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Journal Account Mapping",
+    "Description": "This module represents functionality related to journal account mapping, derived from the product help documentation.",
+    "Submodules": {
+      "Journal Account Types": "Functionality related to journal account types, as described in the documentation."
+    }
+  },
+  {
+    "module": "Contract Management",
+    "Description": "This module represents functionality related to contract management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Subscription Entitlements",
+    "Description": "This module represents functionality related to subscription entitlements, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Api Keys",
+    "Description": "This module represents functionality related to api keys, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Events And Webhooks",
+    "Description": "This module represents functionality related to events and webhooks, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Some Of The Main Features Are:",
+    "Description": "This module represents functionality related to some of the main features are:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Automated Data Synchronization",
+    "Description": "This module represents functionality related to automated data synchronization, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understanding Errors",
+    "Description": "This module represents functionality related to understanding errors, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Home Dashboard",
+    "Description": "This module represents functionality related to home dashboard, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Release Notes",
+    "Description": "This module represents functionality related to release notes, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Advanced Filter Options",
+    "Description": "This module represents functionality related to advanced filter options, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Pci Recommendations And Integration Types",
+    "Description": "This module represents functionality related to pci recommendations and integration types, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Multi-Tenant Login",
+    "Description": "This module represents functionality related to multi-tenant login, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "The Us \u00c2\u0080\u0093Ach (Automated Clearing House)",
+    "Description": "This module represents functionality related to the us \u00e2\u0080\u0093ach (automated clearing house), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Fraud Management",
+    "Description": "This module represents functionality related to fraud management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "For Example, Usage Could Be:",
+    "Description": "This module represents functionality related to for example, usage could be:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee 101 For Product Catalog 2.0",
+    "Description": "This module represents functionality related to chargebee 101 for product catalog 2.0, derived from the product help documentation.",
+    "Submodules": {
+      "Chargebee 101 Series": "Functionality related to chargebee 101 series, as described in the documentation."
+    }
+  },
+  {
+    "module": "Bambora (Formerly Beanstream)",
+    "Description": "This module represents functionality related to bambora (formerly beanstream), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configuring Collection Status",
+    "Description": "This module represents functionality related to configuring collection status, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Consent Management",
+    "Description": "This module represents functionality related to consent management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Grow Faster With Integrations",
+    "Description": "This module represents functionality related to grow faster with integrations, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manual Adjustments",
+    "Description": "This module represents functionality related to manual adjustments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// Feedback Summary:",
+    "Description": "This module represents functionality related to // feedback summary:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Managing Receivables For Customers From Multiple Business Entities",
+    "Description": "This module represents functionality related to managing receivables for customers from multiple business entities, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Automated Import And Export",
+    "Description": "This module represents functionality related to automated import and export, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Unburden Your Finance Team With Automated And Compliant Revenue Recognition.",
+    "Description": "This module represents functionality related to unburden your finance team with automated and compliant revenue recognition., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Pfr Reports",
+    "Description": "This module represents functionality related to pfr reports, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Promise To Pay Amount:Total Promise To Pay Amount Rais",
+    "Description": "This module represents functionality related to promise to pay amount:total promise to pay amount rais, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Update Payment Methods.",
+    "Description": "This module represents functionality related to update payment methods., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Country-Specific Taxes",
+    "Description": "This module represents functionality related to country-specific taxes, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Failure Recovery Comprises The Following Segments:",
+    "Description": "This module represents functionality related to payment failure recovery comprises the following segments:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Metrics Bar",
+    "Description": "This module represents functionality related to metrics bar, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Self-Serve Client Portal",
+    "Description": "This module represents functionality related to self-serve client portal, derived from the product help documentation.",
+    "Submodules": {
+      "Configuring Self Serve Client Portal": "Functionality related to configuring self serve client portal, as described in the documentation.",
+      "Hosted Self-Serve Portal": "Functionality related to hosted self-serve portal, as described in the documentation.",
+      "Self Serve Client Portal": "Functionality related to self serve client portal, as described in the documentation."
+    }
+  },
+  {
+    "module": "Number Tokens Processed By The Llm(Large Language Model).",
+    "Description": "This module represents functionality related to number tokens processed by the llm(large language model)., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - Use The Oxford Comma In Lists.",
+    "Description": "This module represents functionality related to // - use the oxford comma in lists., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Edit Your Template And Create New Pages",
+    "Description": "This module represents functionality related to edit your template and create new pages, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understanding Usages",
+    "Description": "This module represents functionality related to understanding usages, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "E-Learning Website",
+    "Description": "This module represents functionality related to e-learning website, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Receivables Metrics Formulae",
+    "Description": "This module represents functionality related to receivables metrics formulae, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Personal Data Management",
+    "Description": "This module represents functionality related to personal data management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Hosted Checkout",
+    "Description": "This module represents functionality related to hosted checkout, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Dunning For Online Payments",
+    "Description": "This module represents functionality related to dunning for online payments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Plan-Based Bill",
+    "Description": "This module represents functionality related to plan-based bill, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Clickhereto Read Mo",
+    "Description": "This module represents functionality related to clickhereto read mo, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Input Via User Interface",
+    "Description": "This module represents functionality related to input via user interface, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Transfer Configurations",
+    "Description": "This module represents functionality related to transfer configurations, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Object Relationship Model",
+    "Description": "This module represents functionality related to object relationship model, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Reporting On Offer Performance",
+    "Description": "This module represents functionality related to reporting on offer performance, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Mobile-Optimized Hosted Pages",
+    "Description": "This module represents functionality related to mobile-optimized hosted pages, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Refer To The Following Documents To Learn More:",
+    "Description": "This module represents functionality related to refer to the following documents to learn more:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Was This Article Helpful?",
+    "Description": "This module represents functionality related to was this article helpful?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Rbi Tokenization Regulations",
+    "Description": "This module represents functionality related to rbi tokenization regulations, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - Markdown And Formatting Are Consistent.",
+    "Description": "This module represents functionality related to // - markdown and formatting are consistent., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configuring Revenue Rules",
+    "Description": "This module represents functionality related to configuring revenue rules, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Dispute Management",
+    "Description": "This module represents functionality related to dispute management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Metrics",
+    "Description": "This module represents functionality related to payment metrics, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Retained Revenue Reporting",
+    "Description": "This module represents functionality related to retained revenue reporting, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Time Zone",
+    "Description": "This module represents functionality related to time zone, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Saml Single Sign-On",
+    "Description": "This module represents functionality related to saml single sign-on, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Failure Management Data Visibilityautomating Payment Failure Management",
+    "Description": "This module represents functionality related to payment failure managementdata visibilityautomating payment failure management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Paypal Payment Services",
+    "Description": "This module represents functionality related to paypal payment services, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Dunning V1",
+    "Description": "This module represents functionality related to dunning v1, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Minimize Churn By Cross-Selling Or Upgrading Based On Customer Expectations",
+    "Description": "This module represents functionality related to minimize churn by cross-selling or upgrading based on customer expectations, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Bulk Operations",
+    "Description": "This module represents functionality related to bulk operations, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Find All The Latest Updates Happening At Chargebee Here.",
+    "Description": "This module represents functionality related to find all the latest updates happening at chargebee here., derived from the product help documentation.",
+    "Submodules": {
+      "Api Related Updates In Chargebee.": "Functionality related to api related updates in chargebee., as described in the documentation."
+    }
+  },
+  {
+    "module": "Removing Test Sessions From Reporting",
+    "Description": "This module represents functionality related to removing test sessions from reporting, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Usage Tracking Terminology",
+    "Description": "This module represents functionality related to usage tracking terminology, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Cannot Find The Use Case You Need? Contactchargebee Receivables Support.",
+    "Description": "This module represents functionality related to cannot find the use case you need? contactchargebee receivables support., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Control Checks",
+    "Description": "This module represents functionality related to control checks, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Importing Data In Bulk",
+    "Description": "This module represents functionality related to importing data in bulk, derived from the product help documentation.",
+    "Submodules": {
+      "Import Data In Bulk": "Functionality related to import data in bulk, as described in the documentation."
+    }
+  },
+  {
+    "module": "Managing Product Entitlements",
+    "Description": "This module represents functionality related to managing product entitlements, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "System For Cross-Domain Identity Management (Scim)",
+    "Description": "This module represents functionality related to system for cross-domain identity management (scim), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Reporting Overview",
+    "Description": "This module represents functionality related to reporting overview, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Bank Of America",
+    "Description": "This module represents functionality related to bank of america, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Sage Pay",
+    "Description": "This module represents functionality related to sage pay, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Subscription Cancellation",
+    "Description": "This module represents functionality related to subscription cancellation, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Reports & Analytics",
+    "Description": "This module represents functionality related to reports & analytics, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Total Collected:The Total Amount Of Payment Made By Customers Over A Period.",
+    "Description": "This module represents functionality related to total collected:the total amount of payment made by customers over a period., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Recognizing Expenses",
+    "Description": "This module represents functionality related to recognizing expenses, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "What'S New In Chargebee?",
+    "Description": "This module represents functionality related to what's new in chargebee?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Closing Reports",
+    "Description": "This module represents functionality related to closing reports, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - Use \"And\" Instead Of \"&\" In Running Text.",
+    "Description": "This module represents functionality related to // - use \"and\" instead of \"&\" in running text., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Why Use Receivables?",
+    "Description": "This module represents functionality related to why use receivables?, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - No Date Format Issues Found.",
+    "Description": "This module represents functionality related to // - no date format issues found., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee Test Gateway",
+    "Description": "This module represents functionality related to chargebee test gateway, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "View Customers By Cancel Page Outcome",
+    "Description": "This module represents functionality related to view customers by cancel page outcome, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Users & Roles",
+    "Description": "This module represents functionality related to users & roles, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Gift Subscriptions",
+    "Description": "This module represents functionality related to gift subscriptions, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Configure Targeting",
+    "Description": "This module represents functionality related to configure targeting, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Transaction Descriptors",
+    "Description": "This module represents functionality related to transaction descriptors, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Overviewmanaging In-App Purchases With Chargebee",
+    "Description": "This module represents functionality related to overviewmanaging in-app purchases with chargebee, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Understanding Usagesusecases",
+    "Description": "This module represents functionality related to understanding usagesusecases, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Increase Revenue From Upgrades And Renewals",
+    "Description": "This module represents functionality related to increase revenue from upgrades and renewals, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Data Visibility",
+    "Description": "This module represents functionality related to data visibility, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Intents",
+    "Description": "This module represents functionality related to payment intents, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Here'S An Overview Of How This Works:",
+    "Description": "This module represents functionality related to here's an overview of how this works:, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Ecommerce Management",
+    "Description": "This module represents functionality related to ecommerce management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Worldline Online Payments(Formerly Ingenico)",
+    "Description": "This module represents functionality related to worldline online payments(formerly ingenico), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Level 2/3 Data Support",
+    "Description": "This module represents functionality related to level 2/3 data support, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Hard Declines Are Errors That Need Your Customers' Or Your Intervention",
+    "Description": "This module represents functionality related to hard declines are errors that need your customers' or your intervention, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "User Management",
+    "Description": "This module represents functionality related to user management, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "2. Api",
+    "Description": "This module represents functionality related to 2. api, derived from the product help documentation.",
+    "Submodules": {
+      "Api & More": "Functionality related to api & more, as described in the documentation."
+    }
+  },
+  {
+    "module": "Bulk Deletion Of Payment Methods",
+    "Description": "This module represents functionality related to bulk deletion of payment methods, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Prior Period Adjustment",
+    "Description": "This module represents functionality related to prior period adjustment, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Revrec Allows Two Options For The Revenue Recognition Of Consumed Units",
+    "Description": "This module represents functionality related to revrec allows two options for the revenue recognition of consumed units, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Customer Support And Success",
+    "Description": "This module represents functionality related to customer support and success, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Australia \u00c2\u0080\u0093Becs (Bulk Electronic Clearing System)",
+    "Description": "This module represents functionality related to australia \u00e2\u0080\u0093becs (bulk electronic clearing system), derived from the product help documentation.",
+    "Submodules": {
+      "New Zealand \u00c2\u0080\u0093Becs (Bulk Electronic Clearing System)": "Functionality related to new zealand \u00e2\u0080\u0093becs (bulk electronic clearing system), as described in the documentation."
+    }
+  },
+  {
+    "module": "// - Use Sentence Case For Headings Unless Referring To Ui Elements.",
+    "Description": "This module represents functionality related to // - use sentence case for headings unless referring to ui elements., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Using The Rules Editor To Create Audiences",
+    "Description": "This module represents functionality related to using the rules editor to create audiences, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Revenue Arrangement",
+    "Description": "This module represents functionality related to revenue arrangement, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Manage The Look And Feel Of Your Cancel Experiences",
+    "Description": "This module represents functionality related to manage the look and feel of your cancel experiences, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Cloud Erp",
+    "Description": "This module represents functionality related to cloud erp, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Ar Customer Analysis",
+    "Description": "This module represents functionality related to ar customer analysis, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Price Override",
+    "Description": "This module represents functionality related to price override, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Credit Notes",
+    "Description": "This module represents functionality related to credit notes, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Pin Payments",
+    "Description": "This module represents functionality related to pin payments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Contact Your Admin To Get Access To This Feature.",
+    "Description": "This module represents functionality related to contact your admin to get access to this feature., derived from the product help documentation.",
+    "Submodules": {
+      "Contact Administrator To Enable This Feature For Your Account.": "Functionality related to contact administrator to enable this feature for your account., as described in the documentation."
+    }
+  },
+  {
+    "module": "Key Features",
+    "Description": "This module represents functionality related to key features, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Chargebee Billing Data Centers",
+    "Description": "This module represents functionality related to chargebee billing data centers, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Creating Your First Retention Experiment",
+    "Description": "This module represents functionality related to creating your first retention experiment, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Reporting On Experience Performance",
+    "Description": "This module represents functionality related to reporting on experience performance, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Visa Trial Rules",
+    "Description": "This module represents functionality related to visa trial rules, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Two Factor Authentication",
+    "Description": "This module represents functionality related to two factor authentication, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Receivables Analytics",
+    "Description": "This module represents functionality related to receivables analytics, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Custom Fields & Meta Data",
+    "Description": "This module represents functionality related to custom fields & metadata, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Backdating Subscriptions And Invoices",
+    "Description": "This module represents functionality related to backdating subscriptions and invoices, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Account Hierarchy",
+    "Description": "This module represents functionality related to account hierarchy, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Navigating The Chargebee Retention Settings Page",
+    "Description": "This module represents functionality related to navigating the chargebee retention settings page, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "// - Use Parallel Structure And Punctuation In Bullet And Numbered Lists.",
+    "Description": "This module represents functionality related to // - use parallel structure and punctuation in bullet and numbered lists., derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Standalone Selling Price",
+    "Description": "This module represents functionality related to standalone selling price, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Payment Components",
+    "Description": "This module represents functionality related to payment components, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Check Out The Latest User Interface(Ui) And",
+    "Description": "This module represents functionality related to check out the latest user interface(ui) and, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Accessing Chargebee",
+    "Description": "This module represents functionality related to accessing chargebee, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "One-Time Payments",
+    "Description": "This module represents functionality related to one-time payments, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Pricing Table",
+    "Description": "This module represents functionality related to pricing table, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Non-Compliance With Card Association Rules",
+    "Description": "This module represents functionality related to non-compliance with card association rules, derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Reach (Merchant Of Record)",
+    "Description": "This module represents functionality related to reach (merchant of record), derived from the product help documentation.",
+    "Submodules": {}
+  },
+  {
+    "module": "Grandfathering Entitlements",
+    "Description": "This module represents functionality related to grandfathering entitlements, derived from the product help documentation.",
+    "Submodules": {}
+  }
+]
