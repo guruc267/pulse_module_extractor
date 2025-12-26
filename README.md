@@ -36,7 +36,10 @@ Identifies candidate modules and submodules
 - Deduplicates overlapping or noisy module names Excludes headings that are marketing
 - or navigation-specific
 - Groups semantically similar modules together
-
+  
+# Output Format 
+<img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/0f0158b6-c117-4e7e-99ab-384ee17a8cd9" />
+<img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/edcdfb5f-5759-467a-b1bb-c268fa82ec91" />
 
 # OUTPUT IMAGES
 <img width="1200" height="650" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/5bf85f7d-a2e6-426a-826b-3f1da8855db9" />
