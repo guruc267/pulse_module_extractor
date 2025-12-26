@@ -2,7 +2,7 @@
 This project implements an AI-powered Module Extraction Agent designed to automatically extract product modules and submodules from documentation-based help websites.
 This system structured, human-readable JSON output to comprehend product capabilities at scale. It also crawls help manuals, processes and cleans content, and infers hierarchical structure.
 Without the need for manual labelling or hardcoded rules, this approach is designed to function across various external documentation sources (B2B and consumer items).
-## Streamlit app Link : https://pulsemoduleextractorgurucharan.streamlit.app/
+## Streamlit app Link : <a href="https://pulsemoduleextractorgurucharan.streamlit.app/" target="_blank">
 
 ## K Guru Charan RA2211026010141
 
