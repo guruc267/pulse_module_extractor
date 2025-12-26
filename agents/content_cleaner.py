@@ -1,4 +1,3 @@
-# agents/content_cleaner.py
 
 import re
 
@@ -9,11 +8,10 @@ def clean_text(raw_text):
     """
     text = raw_text.lower()
 
-    # ❌ DO NOT collapse all whitespace
-    # ✅ Normalize spaces but KEEP newlines
+
     text = re.sub(r"[ \t]+", " ", text)
 
-    # Remove common noise
+
     text = re.sub(r"cookie|privacy policy|terms of service|copyright", "", text)
 
     return text.strip()
