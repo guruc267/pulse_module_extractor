@@ -4,7 +4,6 @@ import sys
 import os
 import json
 
-# ✅ Add project root to Python path (important for Colab & modular imports)
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from agents.crawler import crawl_docs
@@ -42,7 +41,7 @@ if __name__ == "__main__":
     # Ensure output folder exists
     os.makedirs("output", exist_ok=True)
 
-    # Process each URL independently (recommended for evaluation)
+    
     for url in urls:
         print(f"\nProcessing: {url}")
 
